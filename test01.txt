@@ -1,4 +1,15 @@
 我们做一下测试！
+在master分支增加了这一行，然后提交，这一行是dev和master合并后的内容！
 在dev分支增加了这一行，然后提交！
 李四修改此文件！
 另一个人修改了该文件。 -- 在dev分支修改了这里
+另一个人修改了该文件。
+在branch_add分支增加这一行。
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
+Git has a mutable index called stage.
+哈哈-我也要改了，，，
+哈哈--在github中修改文件内容
+就垃圾啊了就哈哈---阿拉加啊家-改
+小星星1111 -- 在master分支修改这里
+你你你2222 -- 在master分支修改这里
